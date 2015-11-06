@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/caguillen214/MDPHack/issues"
   },
-  "homepage": "https://github.com/caguillen214/MDPHack#readme"
+  "homepage": "https://github.com/caguillen214/MDPHack#readme",
+  "scripts" : {
+    "test" : "test/*"
+  }
 }
